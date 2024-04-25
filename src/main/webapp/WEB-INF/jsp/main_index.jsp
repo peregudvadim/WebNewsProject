@@ -94,9 +94,7 @@
         <br/>
         <c:out value="${requestScope.mainNews.brief}"/>
     </div>
-    <h2>
-    <%="Текст из скриплета"   %>
-    </h2>
+
 
 </div>
 
